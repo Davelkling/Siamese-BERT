@@ -1,0 +1,14 @@
+# Ignore dataset files
+data/
+datasets/
+*.csv
+*.zip
+*.h5
+
+# Ignore checkpoint files
+checkpoints/
+*.weights.h5
+
+# Ignore other large files
+logs/
+*.log
